@@ -1,1 +1,3 @@
 Hello Artifactory and Sonar
+Adding new line
+adding another new line text
