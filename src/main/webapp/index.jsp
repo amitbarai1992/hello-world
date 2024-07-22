@@ -5,6 +5,7 @@
 <body>
 	<h1>Hello World! Welcome to DevOps CICD training</h1>
 	<h2>Reflecting new changes.</h2>
+	<h2>Another update... Reflecting new changes.</h2>
 	<p>
 		It is now
 		<%= new java.util.Date() %></p>
